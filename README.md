@@ -8,4 +8,3 @@ This is a read me for the **WatchTFC Website**
 
 ## Requirements
 
-None
